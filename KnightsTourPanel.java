@@ -17,6 +17,8 @@ import javax.swing.*;
 
 public class KnightsTourPanel extends JPanel {
 
+    // This is a test to check if I can commit changes
+
     // what private data is needed?
 
     private static Cell[][] cellzz = new Cell[8][8];
