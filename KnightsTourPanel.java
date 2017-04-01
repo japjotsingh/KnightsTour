@@ -19,6 +19,8 @@ public class KnightsTourPanel extends JPanel {
 
     // This is a test to check if I can commit changes
 
+    // It works!
+
     // what private data is needed?
 
     private static Cell[][] cellzz = new Cell[8][8];
